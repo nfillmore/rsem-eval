@@ -96,7 +96,7 @@ CalcEvalScore::CalcEvalScore(Refs& refs, double nb_r, double nb_p, int L, int w,
 	theta.assign(M + 1, 0.0);
 	for (int i = 0; i <= M; i++) {
 		fin>>theta[i];
-		if (i > 0 && lens[i] < L) assert(theta[i] == 0);
+		//if (i > 0 && lens[i] < L) assert(theta[i] == 0);
 	}
 	fin.close();
 

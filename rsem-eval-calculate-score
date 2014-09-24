@@ -539,11 +539,11 @@ Read the true transcript length distribution's mean and standard deviation from 
 
 =item B<--transcript-length-mean> <double>
 
-The mean of true transcript length distribution. This option is used together with '--transcript-length-sd' and mutually exclusive with '--estimate-transcript-length-distribution'. (Default: ?) 
+The mean of true transcript length distribution. This option is used together with '--transcript-length-sd' and mutually exclusive with '--estimate-transcript-length-distribution'. (Default: learned from human Ensembl annotation and hg20 genome) 
 
 =item B<--transcript-length-sd> <double>
 
-The standard deviation of true transcript length distribution. This option is used together with '--transcript-length-mean' and mutually exclusive with '--estimate-transcript-length-distribution'. (Default: ?) 
+The standard deviation of true transcript length distribution. This option is used together with '--transcript-length-mean' and mutually exclusive with '--estimate-transcript-length-distribution'. (Default: learned from human Ensembl annotation and hg20 genome) 
 
 =item B<--paired-end>
 
