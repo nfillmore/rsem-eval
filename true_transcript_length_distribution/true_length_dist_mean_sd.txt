@@ -1,0 +1,7 @@
+species				mean			sd			file			
+
+Homo sapiens			2134.04541719343	2277.01034509158	human.txt 		# hg18, Ensembl annotation
+Mus musculus			2096.81038298315	2090.673227048		mouse.txt		# mm9, Ensembl annotation
+Saccharomyces cerevisiae	2050.84456458776	1293.22178627889	yeast.txt		# What version of yeast?
+
+Homo sapiens			1466.44794266103	1804.89907493894	human_hg20.txt		# hg20, Ensembl annotation
